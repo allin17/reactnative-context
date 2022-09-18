@@ -1,6 +1,8 @@
 # reactnative-context
+Instructions:
 
-npm install
+npm install 
+&&
 expo start
 
 Login: "Lama",
